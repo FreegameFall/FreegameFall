@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FreegameFall
 - 👀 I’m interested in game development with Unity
 - 🌱 I’m learning and creating projects for 1 year using Unity
-- 💞️ I’m looking for a job as a programmer in Unity
+- 💞️ I’m looking for a job as a junior programmer using Unity
 - 📫 You can reach me in my email: freegamefall@gmail.com
 
 <!---
